@@ -1,7 +1,7 @@
 
 //
 //  UIImage+LATClipCategory.m
-//  latClip
+//  https://github.com/KKLater/LATClip.git
 //
 //  Created by Later on 16/6/1.
 //  Copyright © 2016年 Later. All rights reserved.
